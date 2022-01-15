@@ -3,15 +3,11 @@ body{
     background-color: #AAAAAA;
 }
 main{
-    background-color: white;
+    background-color: white; 
 }
 .products-class{
-    
     margin-top: 90px;
-    margin-left: 120px;
-   
-    
-
+    margin-left: 125px;
 }
 .first-class{
     display: flex;
@@ -23,8 +19,12 @@ main{
     font-size: 52px;
 }
 .info-class{
+    border-color: blue;
     width: 570px;
     height: 270px;
+}
+.img-class{
+    margin-left: 50px;
 }
 .button-class{
     display: flex;
@@ -43,9 +43,13 @@ main{
     margin-left: 15px;
 }
 main .main-class{
-    margin-right: 120px;
-   
-    
+    margin-right: 120px;    
+}
+.main-class{
+    margin-top: 100px;
+}
+.popular-class{
+    margin-bottom: 60px;
 }
 .blogs{
     display: grid;
@@ -58,17 +62,11 @@ main .main-class{
 }
 .blog{
     background: #FFFFFF;
-    width: 340px;
+    width: 329px;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
     border-radius: 5px;
     padding-left: 35px;
     padding-top: 15px;   
-}
-.img-class{
-    margin-right: 120px;
-    margin-right: 120px;
-    width: 440px;
-height: 414px;
 }
 .popular-class{
     text-align: center;
@@ -77,9 +75,31 @@ height: 414px;
     font-size: 25px;
 }
 .num-class{
-    font-weight: 500;
-    
+    font-weight: 500;  
 }
 .see-class{
     text-align: end;
+}
+.last-class{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.side-class{
+    width: 400px;
+    margin-right: 50px;
+}
+.media-class{
+    width: 600px;
+}
+.end-class{
+    color: white;
+    background-color: rgb(5, 5, 65);
+    height: 200px;
+    justify-content: center;
+    
+}
+.end-class{
+    padding-top: 10px;
+    text-align: center;
 }
