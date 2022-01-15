@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #AAAAAA;
+}
+main{
+    background-color: white;
+}
+.products-class{
+    
+    margin-top: 90px;
+    margin-left: 120px;
+   
+    
+
+}
+.first-class{
+    display: flex;
+    background-color: #FFFFFF;
+    
+    
+}
+.font-class{
+    font-size: 52px;
+}
+.info-class{
+    width: 570px;
+    height: 270px;
+}
+.button-class{
+    display: flex;
+    justify-content: center;
+    color: cornsilk;
+    background-color: #E02C6D;
+    width: 180px;
+    padding: 10px 24px;
+    border-radius: 41px;
+}
+.preebook-class{
+    color: cornsilk;
+    text-decoration: none;
+}
+.awesome-class{
+    margin-left: 15px;
+}
+main .main-class{
+    margin-right: 120px;
+   
+    
+}
+.blogs{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+    border-radius: 5px;
+    justify-content: center;
+   
+}
+.blog{
+    background: #FFFFFF;
+    width: 340px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    padding-left: 35px;
+    padding-top: 15px;   
+}
+.img-class{
+    margin-right: 120px;
+    margin-right: 120px;
+    width: 440px;
+height: 414px;
+}
+.popular-class{
+    text-align: center;
+}
+.pic-class{
+    font-size: 25px;
+}
+.num-class{
+    font-weight: 500;
+    
+}
+.see-class{
+    text-align: end;
+}
